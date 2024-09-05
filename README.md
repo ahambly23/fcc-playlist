@@ -4,8 +4,9 @@ Learn Basic String and Array Methods by Building a Music Player from freeCodeCam
 Songs ---
 
 Maribou state
-I love the way
-country tunes
+condfidence
 breaking free
+Oklahoma
+Sun To me
+jaded, drake 
 enter the ninja
-jaded, drake & miley

@@ -1,11 +1,11 @@
 :root {
     /* colors */
-    --primary-color: #dfdfe2;
-    --secondary-color: #ffffff;
-    --app-background-color: #4d4d62;
-    --background-color: #1b1b32;
-    --foreground-color: #3b3b4f;
-    --highlight-color: #f1be32;
+    --primary-color: #f7007c;
+    --secondary-color: #f7007c;
+    --app-background-color: #f7007c;
+    --background-color: #fd93c8;
+    --foreground-color: white;
+    --highlight-color: #FF69B4;
   
     /* font sizes */
     --root-font-size: 16px;
@@ -366,4 +366,9 @@
       justify-content: space-between;
       text-align: center;
     }
+  }
+
+  .fcc-title {
+    font-size: 10px;
+    text-align: center;
   }
